@@ -14,7 +14,8 @@ A collection of some beginner python programs I did when I started learning Pyth
 
 |Sl. No.|Title|Status|
 |-|-|-|
-|1|CMD Toss Game|<span style="color: LimeGreen">Completed</span>|
-|2|tKinter TicTacToe|<span style="color: LimeGreen">Completed</span>|
-|3|CMD TicTacToe|<span style="color: FireBrick">Pending</span>|
-|4|CMD Slot Machine|<span style="color: LimeGreen">Pending</span>|
+|1|CMD Toss Game|Completed|
+|2|tKinter TicTacToe|Completed|
+|3|Hangman Game|Completed|
+|4|CMD Slot Machine|Completed|
+|5|CMD TicTacToe|Pending|
