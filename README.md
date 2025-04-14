@@ -18,4 +18,4 @@ A collection of some beginner python programs I did when I started learning Pyth
 |2|tKinter TicTacToe|Completed|
 |3|Hangman Game|Completed|
 |4|CMD Slot Machine|Completed|
-|5|CMD TicTacToe|Pending|
+|5|CMD TicTacToe|Completed|
